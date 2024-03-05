@@ -17,6 +17,7 @@
     "com.vrmc.univrm": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM#v0.120.0",
     "com.vrmc.vrm": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM10#v0.120.0",
     "com.vrmc.vrmshaders": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.120.0",
+    "jp.lilxyzw.liltoon": "https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon#1.7.2",
     "org.nuget.observablecollections.r3": "2.1.1",
     "org.nuget.r3": "1.1.6",
     "com.unity.modules.accessibility": "1.0.0",

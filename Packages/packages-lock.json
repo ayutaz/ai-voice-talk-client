@@ -242,6 +242,13 @@
       },
       "hash": "be13ead1741d5c87a161db73ce74faa14aa21cd9"
     },
+    "jp.lilxyzw.liltoon": {
+      "version": "https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon#1.7.2",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d9e1e06d2bc25961f8849ba2dd926ffebcef6bf7"
+    },
     "org.nuget.microsoft.bcl.asyncinterfaces": {
       "version": "6.0.0",
       "depth": 2,
